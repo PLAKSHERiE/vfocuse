@@ -1,0 +1,9 @@
+.container {
+  @include wrapper;
+
+  color: color('black');
+
+  @include media-breakpoint-up('xl') {
+    color: color('black');
+  }
+}

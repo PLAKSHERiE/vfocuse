@@ -1,0 +1,17 @@
+build
+
+node_modules
+.vscode
+*.log
+*.rar
+*.zip
+.idea
+ex_files
+Thumbs.db
+bower_components
+_arc
+.Saved
+__MACOSX
+.publish
+.DS_Store
+*.sublime-*
